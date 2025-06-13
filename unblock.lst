@@ -1,21 +1,17 @@
-*2ip.ru
-*addr.tools
-*anilibria.tv
-*anilibria.uno
-*bing.com
-*browserleaks.com
-*cache.libria.fun
-*chatgpt.com
-*dnsleaktest.com
-*google.dev
-*live.com
-*microsoft.com
-*microsoft365.com
-*myip.addr.tools
-*netflix.com
-*oaistatic.com
-*openai.com
-*openwrt.org
-*whatsapp.net
-*wwnd.space
+2ip.ru yes 
+
+bing.com yes
+
+chatgpt.com yes
+
+google.dev yes
+live.com yes
+microsoft.com yes 
+microsoft365.com yes
+
+oaistatic.com yes
+openai.com yes
+
 compiler-explorer.com
+
+qt.io yes
